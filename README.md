@@ -22,7 +22,13 @@ An apparently very well-regarded YouTube playlist on algorithms ([link](https://
 - (2022/01/27) 1.1 Priori Analysis and Posteriori Testing
 - (2022/01/27) 1.2 Characteristics of Algorithm
 - (2022/01/27) 1.3 How Write and Analyze Algorithm
-- (2022/01/31) 1.4 Frequency Count Method
-- (2022/01/31) 1.5.1 Time Complexity #1
-- (2022/01/31) 1.5.2 Time Complexity Example #2
-- (2022/01/31) 1.5.3 Time Complexity of While and if #3
+- (2022/01/30) 1.4 Frequency Count Method
+- (2022/01/30) 1.5.1 Time Complexity #1
+- (2022/01/30) 1.5.2 Time Complexity Example #2
+- (2022/01/30) 1.5.3 Time Complexity of While and if #3
+- (2022/01/31) 1.6 Classes of functions
+- (2022/01/31) 1.7 Compare Class of Functions
+- (2022/01/31) 1.8.1 Asymptotic Notations Big Oh - Omega - Theta #1
+- (2022/01/31) 1.8.2 Asymptotic Notations - Big Oh - Omega - Theta #2
+- (2022/01/31) 1.9 Properties of Asymptotic Notations
+- (2022/01/31) 1.10.1 Comparison of Functions #1

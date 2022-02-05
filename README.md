@@ -32,3 +32,7 @@ An apparently very well-regarded YouTube playlist on algorithms ([link](https://
 - (2022/01/31) 1.8.2 Asymptotic Notations - Big Oh - Omega - Theta #2
 - (2022/01/31) 1.9 Properties of Asymptotic Notations
 - (2022/01/31) 1.10.1 Comparison of Functions #1
+- (2022/02/03) 1.10.2 Comparison of Functions #2
+- (2022/02/03) 1.11 Best Worst and Average Case Analysis
+- (2022/02/03) 1.12 Disjoint Sets Data Structure - Weighted Union and Collapsing Find
+- (2022/02/03) 2 Divide And Conquer

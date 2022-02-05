@@ -36,3 +36,8 @@ An apparently very well-regarded YouTube playlist on algorithms ([link](https://
 - (2022/02/03) 1.11 Best Worst and Average Case Analysis
 - (2022/02/03) 1.12 Disjoint Sets Data Structure - Weighted Union and Collapsing Find
 - (2022/02/03) 2 Divide And Conquer
+- (2022/02/04) 2.1.1 Recurrence Relation (T(n)= T(n-1) + 1) #1
+- (2022/02/04) 2.1.2 Recurrence Relation (T(n)= T(n-1) + n) #2
+- (2022/02/04) 2.1.3 Recurrence Relation (T(n)= T(n-1) + log n) #3
+- (2022/02/04) 2.1.4 Recurrence Relation T(n)=2 T(n-1)+1 #4
+- (2022/02/04) 2.2 Masters Theorem Decreasing Function
